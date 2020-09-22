@@ -1576,3 +1576,19 @@ section {
 #footer .footer-links a:hover {
   color: #3498db;
 }
+
+.serv{
+  margin: inherit;
+  font-size: 14px;
+}
+.partir{
+
+  color: #bababa;
+  font-size: 16px;
+  font-weight: 300;
+  /* --font-family-sans-serif:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace; */
+}
+#dot{
+  color: #f9f9f9;
+}
