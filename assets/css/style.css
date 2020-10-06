@@ -547,6 +547,32 @@ section {
   .clients img {
     width: 40%;
   }
+  #about{
+    padding-top: 0;
+  }
+  #hero{
+    padding-bottom: 0;
+    padding-top: 0;
+    margin-top: 0;
+  }
+  .div-cta{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #div-cta2{
+    margin-right: -50%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 200%;
+  }
+  #h2-sobre{
+    margin-top: 80px;
+  }
+  .img-main{
+    margin-top: 75px;
+  }
+
 }
 
 @media (max-width: 575px) {
